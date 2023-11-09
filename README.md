@@ -10,7 +10,7 @@ The School Management Application is designed to facilitate the management of st
 - **Class View**: Users can view a class-specific list of students, filter students by gender, and sort students by various criteria.
 - **School View**: Users can view school-wide statistics, including the total number of students, average attendance, average marks, and the top-performing student.
 
-### Texh Stack
+### Tech Used
 #### Frontend - 
 - JavaScript
 - React JS
